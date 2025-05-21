@@ -74,5 +74,6 @@ I'm a dedicated **backend developer** passionate about building efficient, scala
 
 ---
 
-![Ashish's Github stats](https://github-readme-stats.vercel.app/api?username=swatuu0602&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatuu0602&layout=compact&theme=radical)
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ash1327&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1327&layout=compact&theme=radical)
+
