@@ -60,7 +60,7 @@ I'm a dedicated **backend developer** passionate about building efficient, scala
 
 ### 🤝 Connect With Me
 
-LinkedIn: https://linkedin.com/in/ashish-sharma-aa1b0a230
+LinkedIn: https://linkedin.com/in/ashish-sharma-aa1b0a230 <br>
 Email: ashishsharma10436@gmail.com
 
 ---
